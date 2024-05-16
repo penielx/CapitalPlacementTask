@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\CapitalPlacement.Application\CapitalPlacement.Application.csproj" />
+    <ProjectReference Include="..\CapitalPlacement.Infrastructure\CapitalPlacement.Infrastructure.csproj" />
+    <ProjectReference Include="..\CapitalPlacement.Shared\CapitalPlacement.Shared.csproj" />
   </ItemGroup>
 
 </Project>

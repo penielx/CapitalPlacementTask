@@ -1,0 +1,9 @@
+﻿global using CapitalPlacement.Application.Interfaces;
+global using CapitalPlacement.Application.Interfaces.Application_Layer;
+global using CapitalPlacement.Domain;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using CapitalPlacement.Shared.Responses;
